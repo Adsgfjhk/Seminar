@@ -67,7 +67,7 @@
 
 ---
 
-## 5. t-Diagnosability診斷度
+## 5. t-Diagnosability 診斷度
 
 ### 定義
 * **$t$-Diagnosable**：若在全系統故障節點數**不超過 $t$ 個**的前提下，任意兩個相異的故障集合 $F_1, F_2$（滿足 $|F_1| \le t, |F_2| \le t$）皆為可區分 (Distinguishable)，Arbiter 能唯一且正確識別所有故障節點。
