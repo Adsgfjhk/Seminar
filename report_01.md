@@ -4,7 +4,6 @@
 * **講題**：System-level Diagnosis - An Introduction and Recent Results (研究領域介紹：網路診斷與容錯)
 * **講者**：Dajin Wang 王大進
 * **日期**：2026/09/15
-* **單位**：School of Computing, Montclair State University, New Jersey, USA
 
 ---
 
