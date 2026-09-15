@@ -1,4 +1,4 @@
-# 專題演講筆記：系統級診斷與容錯 (System-Level Diagnosis)
+# 演講筆記：系統級診斷與容錯 (System-Level Diagnosis)
 
 ## 演講資訊
 * **講題**：System-level Diagnosis - An Introduction and Recent Results (研究領域介紹：網路診斷與容錯)
