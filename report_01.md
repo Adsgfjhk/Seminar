@@ -20,9 +20,9 @@
 
 ## 2. 研究背景與動機 (Background & Motivation)
 
-### 規模擴張帶來的可靠性挑戰
-* 越來越多高速、大規模的Multiprocessor與Multicomputer系統被部署與使用。
-* 系統規模與日俱增，加上網路攻擊活動猖獗，計算節點 (Nodes) 的**故障/失效 (Faults/Faulty nodes) 不可避免**。
+### 規模擴張帶來的挑戰
+* 越來越多高速、大規模的Multiprocessor與Multicomputer系統被使用。
+* 系統規模與日俱增，加上網路攻擊活動頻繁，計算節點 (Nodes) 的**故障/失效 (Faults/Faulty nodes) 不可避免**。
 
 ### 失效機率的數學現實 (可靠度崩跌)
 在**無備援 (Non-redundant)** 的系統架構下，單一處理器的高可靠度無法保證大規模系統的整體可用性：
