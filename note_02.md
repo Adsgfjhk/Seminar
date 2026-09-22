@@ -1,7 +1,7 @@
 # 演講筆記 - 2
 
 ## 演講資訊
-* **日期：** `2026-09-22`
+* **日期：** `2026/09/22`
 * **講者：** 彭徐鈞 教授兼主任 (臺北醫學大學 醫學院人工智慧醫療碩士在職專班)
 * **題目：** 從數據驅動到臨床轉譯：人工智慧於醫學影像診斷與預後評估之最新進展 (From Data-Driven Insights to Clinical Translation: Advances in AI for Diagnostic and Prognostic Medical Imaging)
 
